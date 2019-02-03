@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mvnjartest.jartest;
+package com.github.teja24nex.jartest;
 
 /**
  * @author Teja
